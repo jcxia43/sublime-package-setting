@@ -3,6 +3,8 @@
 	[
 		"BracketHighlighter",
 		"Git",
+		"MinimalFortran",
+		"Racket",
 		"SideBarEnhancements",
 		"SML (Standard ML)",
 		"SublimeCodeIntel",
