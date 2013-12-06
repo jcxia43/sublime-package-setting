@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"caret_style": "wide",
 	"color_scheme": "Packages/Theme - Nil/Big Duo.tmTheme",
 	"font_face": "monaco",
@@ -12,6 +13,5 @@
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"auto_complete_commit_on_tab": true
+	"translate_tabs_to_spaces": true
 }
