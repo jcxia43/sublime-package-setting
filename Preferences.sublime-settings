@@ -1,14 +1,14 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Nil/Big Duo.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"font_face": "monaco",
 	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
