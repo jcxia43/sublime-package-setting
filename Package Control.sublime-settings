@@ -1,15 +1,20 @@
 {
 	"installed_packages":
 	[
-		"BracketHighlighter",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"DashDoc",
 		"Git",
+		"MarkdownEditing",
 		"MinimalFortran",
 		"Racket",
 		"SideBarEnhancements",
 		"SML (Standard ML)",
 		"SublimeCodeIntel",
+		"SublimeREPL",
 		"Theme - Flatland",
 		"Theme - Nil",
-		"Theme - Phoenix"
+		"Theme - Phoenix",
+		"TrailingSpaces"
 	]
 }
